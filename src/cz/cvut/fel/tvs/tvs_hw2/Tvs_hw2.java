@@ -1,4 +1,4 @@
-package tvs_hw2;
+package cz.cvut.fel.tvs.tvs_hw2;
 
 /**
  *
